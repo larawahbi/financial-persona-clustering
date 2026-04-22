@@ -34,6 +34,8 @@ learning to complement an existing analytics foundation.
 ---
 
 ## Project Structure
+
+```
 customer-segmentation/
 │
 ├── data/                        ← not included, see instructions below
@@ -51,7 +53,7 @@ customer-segmentation/
 ├── outputs/                     ← generated charts, not included in repo
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ## Dataset
