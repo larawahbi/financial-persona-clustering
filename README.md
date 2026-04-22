@@ -8,7 +8,7 @@ and demographic profile.
 
 ## About
 
-This project was built by Lara Wahbi as part of a self-directed learning 
+This project was built by Lara Amro as part of a self-directed learning 
 journey into machine learning and customer analytics. The goal was to apply 
 clustering techniques to real-world-style financial data and produce 
 interpretable persona profiles — similar in concept to personality type 
@@ -17,7 +17,8 @@ frameworks but grounded in financial behaviour.
 **Background:** 8+ years in data engineering, business intelligence, and 
 data governance across international organisations including UNHCR, WFP, 
 and IFRC. This project reflects a deliberate move into applied machine 
-learning to complement an existing analytics foundation.
+learning to complement an existing analytics foundation. Currrently
+based in Adelaide, South Australia with full work rights. 
 
 ---
 
@@ -116,11 +117,17 @@ its output for the next to pick up.
 
 ## Key Findings
 
-The Stretched Middle is the largest group — nearly half the customer 
-base — carrying the highest debt-to-income ratio despite being in peak 
-earning years. The Disciplined Saver group, though small at 64 customers 
-and 59% female, demonstrates the highest credit score of all personas 
-with essentially zero debt. The Financially Vulnerable group is the 
-most distinct — near-zero credit access, lowest spend, and narrowest 
-merchant range — suggesting financial exclusion rather than simply 
-low income.
+### 🟠 The Stretched Middle is the dominant group
+**40.6% of customers** — the largest persona by far. Mid-career earners carrying the heaviest debt burden relative to income, yet spending conservatively. Financial pressure is the defining characteristic.
+
+### 🟢 High income does not mean low debt
+The **Affluent Spender** (30.4%) earns the most ($61k avg) but also carries the most debt ($91k avg). Borrowing is a lifestyle tool, not a sign of distress.
+
+### 🟣 The Disciplined Saver defies expectations
+Only **5.2% of customers** — but the highest credit score (742) of all groups, achieved on a moderate income of $46k. **59% female.** Demonstrates that financial responsibility is behavioural, not income-driven.
+
+### 🔵 Retirement changes everything
+The **Settled Retiree** (21.6%) has the lowest debt ($14k) and the oldest average age (74). Spending is stable and predictable — fixed income habits built over decades.
+
+### 🔴 A small group is severely financially excluded
+The **Financially Vulnerable** represent just **2.1% of customers** — but stand apart from the rest. Near-zero credit access, lowest income ($26k), narrowest merchant range. This is financial exclusion, not simply low spending.

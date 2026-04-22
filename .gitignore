@@ -3,3 +3,5 @@
 *.xls
 *.csv
 *.json
+outputs/*.html
+outputs/*.png
